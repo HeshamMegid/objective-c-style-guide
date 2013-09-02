@@ -1,6 +1,6 @@
 #Objective-C Style Guide
 
-Coding style guidelines and conventions used by myself. Based on the [NYTimes Objective-C style guide](https://github.com/NYTimes/objective-c-style-guide)
+Coding style guidelines and conventions used by myself. Based on the [NYTimes Objective-C style guide](https://github.com/NYTimes/objective-c-style-guide) and slightly modified to my own taste.
 
 ## Table of Contents
 
